@@ -14,5 +14,5 @@ export const keepAliveConfig = {
 
   consoleLogOnError: true,
 
-  otherEndpoints: [],
+  otherEndpoints: ["https://ai-saas-spp.vercel.app/api/keep-alive"],
 };
