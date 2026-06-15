@@ -14,5 +14,5 @@ export const keepAliveConfig = {
 
   consoleLogOnError: true,
 
-  otherEndpoints: [],
+  otherEndpoints: ["https://budgetwise-supabase-pause-preventio.vercel.app/api/keep-alive"],
 };
